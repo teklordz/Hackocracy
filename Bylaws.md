@@ -17,7 +17,7 @@ _Some things to keep in mind as you begin:_
 
 # **ARTICLE I. NAME OF ORGANIZATION**
 
-# The name of the corporation is YOUR NONRPOFIT NAME HERE
+# The name of the corporation is YOUR NONPROFIT NAME HERE
 
 **ARTICLE II. CORPORATE PURPOSE**
 
